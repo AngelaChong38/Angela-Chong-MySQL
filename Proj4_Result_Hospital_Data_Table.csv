@@ -1,0 +1,11 @@
+patient_id,patient_name,age,gender,address,phone,insurance,apt_id,start_dt_time,doctor,department,procedure_name,cost,exam_room,medicine,brand,description,generic,hospital_stay,room_id,room_type,floor,nurse
+11004,"Dennis Doe",25,M,"1100 Foobaz Avenue",555-2048,Self,4,"2008-04-25 10:00:00","Percival Cox",Radiology,MRI,1500,B,Crescavitin,"Baz Industries",N/A,1,NO,NULL,NULL,NULL,NULL
+11002,"Grace Ritchie",12,F,"37 Snafu Drive",555-0512,BCBS,2,"2008-04-24 10:00:00","Elliot Reid",Pediatrics,"Wellness Check",500,B,Thesisin,"Foo Labs",N/A,0,NO,NULL,NULL,NULL,NULL
+11005,"John Johnsone",50,M,"11 Kukookey Lane",555-2033,BCBS,5,"2008-04-26 10:00:00","Percival Cox",Radiology,DBS,5600,C,Crescavitin,"Baz Industries",N/A,1,YES,101,Single,1,"Carla Espinosa"
+11001,"John Smith",45,M,"42 Foobar Lane",555-0256,BCBS,1,"2008-04-24 10:00:00","John Dorian","Internal Medicine","Follow Up",25,A,Procrastin-X,X,N/A,0,NO,NULL,NULL,NULL,NULL
+11003,"Random J. Patient",35,M,"101 Omgbbq Street",555-1204,BCBS,3,"2008-04-25 10:00:00","Christopher Turk",Psychiatry,"Wellness Check",500,A,Awakin,"Bar Laboratories",N/A,0,NO,NULL,NULL,NULL,NULL
+11006,"Sam Elecsco",16,M,"221 First Street",555-3333,Self,6,"2008-04-26 11:00:00","Percival Cox",Radiology,Chemo,10000,C,Crescavitin,"Baz Industries",N/A,1,YES,102,Single,1,"Carla Espinosa"
+11010,"Sasha Cruise",75,F,"35 Jordan Lane",555-8858,Cobra,10,"2008-04-27 10:00:00","Percival Cox",Radiology,X-Ray,4500,B,Melioraurin,"Snafu Pharma",N/A,1,NO,NULL,NULL,NULL,NULL
+11009,"Shannon Kansa",48,F,"320 Jason Circle",555-5977,BCBS,9,"2008-04-27 10:00:00","Christopher Turk",Psychiatry,"Movement Disorder",3750,B,Melioraurin,"Snafu Pharma",N/A,1,YES,303,Double,3,"Laverne Roberts"
+11008,"Sue Wilson",8,F,"12 Olympia Drive",555-1535,BCBS,8,"2008-04-27 10:00:00","Elliot Reid",Pediatrics,"Follow Up",25,A,Crescavitin,"Baz Industries",N/A,1,NO,NULL,NULL,NULL,NULL
+11007,"Thomas Dickson",45,M,"3454 Flower Lane",555-3838,Cobra,7,"2008-04-26 12:00:00","John Dorian","Internal Medicine","Wellness Check",500,C,Awakin,"Bar Laboratories",N/A,0,NO,NULL,NULL,NULL,NULL
