@@ -11,3 +11,4 @@ Project 4 is Hospital data. I came up with all the data on my own. It consists o
 
 The final project, project 5, Employee data, is probably the most used SQL queries out there. In this project, I created 5 tables. Query are used to find average salary per department, who is the newest/oldest employee, average salary in the company by gender, % of male/female employees who makes above average to ensure equality, and ranking employees by salaries within a certain salary bracket. 
 
+The projects use general SQL commands such as JOIN, COUNT, MAX, SUM, GROUP, LIMIT, CASE, ORDER,and TIMEDIFF. It also uses advance SQL code using procedures, ctes, and window functions. 
