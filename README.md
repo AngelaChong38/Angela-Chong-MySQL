@@ -1,5 +1,5 @@
 # Angela-Chong-SQL Projects
-These 5 projects involve the data for Instagram, furniture store, library books, hospital, and employee data. Each section includes multiple tables. There are schema, data used, SQL query, and also final export result in csv format to be used in any visualization tools such as Tableau. 
+These 5 projects involve the data for Instagram, furniture store, library books, hospital, and employee. Each section includes multiple tables. There are schema, data used, SQL query, and also final export result in csv format to be used in any visualization tools such as Tableau. 
 
 Project 1, Instagram data, is one of the final projects in the Udemy certification program. There are 7 tables in this project. The query are used to find who are the newest/oldest members, which day of the week most users are online, who has the most liked Instagram picture, how many times does the average user post, what is the most used hashtags, how many followers per user, which photo has the most comment, and how to rank photos. 
 
