@@ -1,0 +1,1001 @@
+emp_no,Employee,Title,Gender,Birthday,Department,Salary,from_date,to_date
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$41789,1998-02-15,1999-02-15
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$44948,1999-02-15,2000-02-15
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$47428,2000-02-15,2001-02-14
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$50000,2001-02-14,2002-02-14
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$53272,2002-02-14,9999-01-01
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$41789,1998-02-15,1999-02-15
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$44948,1999-02-15,2000-02-15
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$47428,2000-02-15,2001-02-14
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$50000,2001-02-14,2002-02-14
+15427,"Aamodt, Aluzio",Engineer,M,1959-03-06,Development,$53272,2002-02-14,9999-01-01
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$42750,1993-02-06,1994-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$46206,1994-02-06,1995-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$46168,1995-02-06,1996-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$50589,1996-02-06,1997-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$54318,1997-02-05,1998-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$58809,1998-02-05,1999-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$61340,1999-02-05,2000-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$62177,2000-02-05,2001-02-04
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$65778,2001-02-04,2002-02-04
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$69633,2002-02-04,9999-01-01
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$42750,1993-02-06,1994-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$46206,1994-02-06,1995-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$46168,1995-02-06,1996-02-06
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$50589,1996-02-06,1997-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$54318,1997-02-05,1998-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$58809,1998-02-05,1999-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$61340,1999-02-05,2000-02-05
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$62177,2000-02-05,2001-02-04
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$65778,2001-02-04,2002-02-04
+100860,"Aamodt, Amabile","Senior Staff",F,1964-06-20,Research,$69633,2002-02-04,9999-01-01
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$42750,1993-02-06,1994-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$46206,1994-02-06,1995-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$46168,1995-02-06,1996-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$50589,1996-02-06,1997-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$54318,1997-02-05,1998-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$58809,1998-02-05,1999-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$61340,1999-02-05,2000-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$62177,2000-02-05,2001-02-04
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$65778,2001-02-04,2002-02-04
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$69633,2002-02-04,9999-01-01
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$42750,1993-02-06,1994-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$46206,1994-02-06,1995-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$46168,1995-02-06,1996-02-06
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$50589,1996-02-06,1997-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$54318,1997-02-05,1998-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$58809,1998-02-05,1999-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$61340,1999-02-05,2000-02-05
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$62177,2000-02-05,2001-02-04
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$65778,2001-02-04,2002-02-04
+100860,"Aamodt, Amabile",Staff,F,1964-06-20,Research,$69633,2002-02-04,9999-01-01
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis",Engineer,M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$58608,1992-05-26,1993-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$61044,1993-05-26,1994-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$64600,1994-05-26,1995-05-26
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$65969,1995-05-26,1996-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$69599,1996-05-25,1997-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$70011,1997-05-25,1998-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$71486,1998-05-25,1999-05-25
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$72617,1999-05-25,2000-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76443,2000-05-24,2001-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$76432,2001-05-24,2002-05-24
+107070,"Aamodt, Anestis","Senior Engineer",M,1954-04-24,Production,$80229,2002-05-24,9999-01-01
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam","Senior Staff",F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$40000,1986-01-09,1987-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$42973,1987-01-09,1988-01-09
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$44661,1988-01-09,1989-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$48657,1989-01-08,1990-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$51662,1990-01-08,1991-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$52274,1991-01-08,1992-01-08
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$56763,1992-01-08,1993-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$60894,1993-01-07,1994-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$65385,1994-01-07,1995-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68860,1995-01-07,1996-01-07
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$68437,1996-01-07,1997-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69403,1997-01-06,1998-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$69122,1998-01-06,1999-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$71037,1999-01-06,2000-01-06
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73096,2000-01-06,2001-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$73468,2001-01-05,2002-01-05
+29182,"Aamodt, Arumugam",Staff,F,1952-11-17,"Customer Service",$74407,2002-01-05,9999-01-01
+88414,"Aamodt, Ashish","Technique Leader",F,1952-05-29,Production,$40000,1996-01-26,1996-05-17
+88414,"Aamodt, Ashish","Technique Leader",F,1952-05-29,Production,$40000,1996-01-26,1996-05-17
+88414,"Aamodt, Ashish","Technique Leader",F,1952-05-29,Production,$40000,1996-01-26,1996-05-17
+88414,"Aamodt, Ashish","Technique Leader",F,1952-05-29,Production,$40000,1996-01-26,1996-05-17
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$50128,1992-02-02,1993-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$52462,1993-02-01,1994-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$52031,1994-02-01,1995-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$51762,1995-02-01,1996-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$54250,1996-02-01,1996-09-08
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$50128,1992-02-02,1993-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$52462,1993-02-01,1994-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$52031,1994-02-01,1995-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$51762,1995-02-01,1996-02-01
+107094,"Aamodt, Baoqiu",Staff,M,1957-10-25,Sales,$54250,1996-02-01,1996-09-08
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$52986,1991-06-12,1992-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$57453,1992-06-11,1993-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$59306,1993-06-11,1994-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$59083,1994-06-11,1995-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$60062,1995-06-11,1996-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$64500,1996-06-10,1997-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$67764,1997-06-10,1998-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$70049,1998-06-10,1999-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$73677,1999-06-10,2000-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$73420,2000-06-09,2001-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$75920,2001-06-09,2002-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$76842,2002-06-09,9999-01-01
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$52986,1991-06-12,1992-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$57453,1992-06-11,1993-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$59306,1993-06-11,1994-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$59083,1994-06-11,1995-06-11
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$60062,1995-06-11,1996-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$64500,1996-06-10,1997-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$67764,1997-06-10,1998-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$70049,1998-06-10,1999-06-10
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$73677,1999-06-10,2000-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$73420,2000-06-09,2001-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$75920,2001-06-09,2002-06-09
+11761,"Aamodt, Bartek","Senior Staff",M,1964-07-17,Finance,$76842,2002-06-09,9999-01-01
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$52986,1991-06-12,1992-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$57453,1992-06-11,1993-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$59306,1993-06-11,1994-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$59083,1994-06-11,1995-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$60062,1995-06-11,1996-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$64500,1996-06-10,1997-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$67764,1997-06-10,1998-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$70049,1998-06-10,1999-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$73677,1999-06-10,2000-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$73420,2000-06-09,2001-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$75920,2001-06-09,2002-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$76842,2002-06-09,9999-01-01
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$52986,1991-06-12,1992-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$57453,1992-06-11,1993-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$59306,1993-06-11,1994-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$59083,1994-06-11,1995-06-11
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$60062,1995-06-11,1996-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$64500,1996-06-10,1997-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$67764,1997-06-10,1998-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$70049,1998-06-10,1999-06-10
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$73677,1999-06-10,2000-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$73420,2000-06-09,2001-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$75920,2001-06-09,2002-06-09
+11761,"Aamodt, Bartek",Staff,M,1964-07-17,Finance,$76842,2002-06-09,9999-01-01
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,Production,$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$55958,1996-09-13,1997-05-05
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$41484,1991-09-15,1992-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$45461,1992-09-14,1993-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$49257,1993-09-14,1994-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$50535,1994-09-14,1995-09-14
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$52362,1995-09-14,1996-09-13
+17400,"Aamodt, Basim",Engineer,F,1962-03-22,"Customer Service",$55958,1996-09-13,1997-05-05
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$45909,1997-05-17,1998-05-17
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$48791,1998-05-17,1999-05-17
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$50531,1999-05-17,2000-05-16
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$53434,2000-05-16,2001-05-16
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$54596,2001-05-16,2001-11-24
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$45909,1997-05-17,1998-05-17
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$48791,1998-05-17,1999-05-17
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$50531,1999-05-17,2000-05-16
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$53434,2000-05-16,2001-05-16
+31701,"Aamodt, Carrsten","Senior Engineer",F,1960-06-06,Development,$54596,2001-05-16,2001-11-24
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,Production,$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$66286,2000-05-20,2001-01-26
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$59452,1998-05-21,1999-05-21
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$63092,1999-05-21,2000-05-20
+35101,"Aamodt, Christ",Engineer,F,1955-10-20,"Quality Management",$66286,2000-05-20,2001-01-26
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$60490,1991-05-06,1992-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$60999,1992-05-05,1993-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63994,1993-05-05,1994-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$64090,1994-05-05,1995-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63762,1995-05-05,1996-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63706,1996-05-04,1997-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$64266,1997-05-04,1998-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$66781,1998-05-04,1999-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$71156,1999-05-04,2000-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$72765,2000-05-03,2001-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$76376,2001-05-03,2002-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$79724,2002-05-03,9999-01-01
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$60490,1991-05-06,1992-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$60999,1992-05-05,1993-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63994,1993-05-05,1994-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$64090,1994-05-05,1995-05-05
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63762,1995-05-05,1996-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$63706,1996-05-04,1997-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$64266,1997-05-04,1998-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$66781,1998-05-04,1999-05-04
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$71156,1999-05-04,2000-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$72765,2000-05-03,2001-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$76376,2001-05-03,2002-05-03
+61219,"Aamodt, Chuanyi","Senior Staff",M,1952-08-08,Sales,$79724,2002-05-03,9999-01-01
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$60490,1991-05-06,1992-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$60999,1992-05-05,1993-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63994,1993-05-05,1994-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$64090,1994-05-05,1995-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63762,1995-05-05,1996-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63706,1996-05-04,1997-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$64266,1997-05-04,1998-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$66781,1998-05-04,1999-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$71156,1999-05-04,2000-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$72765,2000-05-03,2001-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$76376,2001-05-03,2002-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$79724,2002-05-03,9999-01-01
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$60490,1991-05-06,1992-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$60999,1992-05-05,1993-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63994,1993-05-05,1994-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$64090,1994-05-05,1995-05-05
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63762,1995-05-05,1996-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$63706,1996-05-04,1997-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$64266,1997-05-04,1998-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$66781,1998-05-04,1999-05-04
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$71156,1999-05-04,2000-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$72765,2000-05-03,2001-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$76376,2001-05-03,2002-05-03
+61219,"Aamodt, Chuanyi",Staff,M,1952-08-08,Sales,$79724,2002-05-03,9999-01-01
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$52180,1988-05-25,1989-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$55636,1989-05-25,1990-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$58887,1990-05-25,1991-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$60116,1991-05-25,1992-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$64058,1992-05-24,1993-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$68123,1993-05-24,1994-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$70490,1994-05-24,1995-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$72792,1995-05-24,1996-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76246,1996-05-23,1997-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76760,1997-05-23,1998-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76861,1998-05-23,1999-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$78481,1999-05-23,2000-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$81306,2000-05-22,2001-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$81367,2001-05-22,2002-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$82224,2002-05-22,9999-01-01
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$52180,1988-05-25,1989-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$55636,1989-05-25,1990-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$58887,1990-05-25,1991-05-25
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$60116,1991-05-25,1992-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$64058,1992-05-24,1993-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$68123,1993-05-24,1994-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$70490,1994-05-24,1995-05-24
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$72792,1995-05-24,1996-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76246,1996-05-23,1997-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76760,1997-05-23,1998-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$76861,1998-05-23,1999-05-23
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$78481,1999-05-23,2000-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$81306,2000-05-22,2001-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$81367,2001-05-22,2002-05-22
+18182,"Aamodt, Dekang","Senior Staff",F,1963-02-23,"Human Resources",$82224,2002-05-22,9999-01-01
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$66761,1987-08-13,1988-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$67392,1988-08-12,1989-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$68768,1989-08-12,1990-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$72279,1990-08-12,1991-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$76353,1991-08-12,1992-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$78420,1992-08-11,1993-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$80071,1993-08-11,1994-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$82522,1994-08-11,1995-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$85612,1995-08-11,1996-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$89267,1996-08-10,1997-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$90030,1997-08-10,1998-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$91996,1998-08-10,1999-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$96464,1999-08-10,2000-08-09
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$99793,2000-08-09,2001-08-09
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$100059,2001-08-09,9999-01-01
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$66761,1987-08-13,1988-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$67392,1988-08-12,1989-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$68768,1989-08-12,1990-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$72279,1990-08-12,1991-08-12
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$76353,1991-08-12,1992-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$78420,1992-08-11,1993-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$80071,1993-08-11,1994-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$82522,1994-08-11,1995-08-11
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$85612,1995-08-11,1996-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$89267,1996-08-10,1997-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$90030,1997-08-10,1998-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$91996,1998-08-10,1999-08-10
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$96464,1999-08-10,2000-08-09
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$99793,2000-08-09,2001-08-09
+53390,"Aamodt, Dmitry",Engineer,M,1961-05-24,Development,$100059,2001-08-09,9999-01-01
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$66761,1987-08-13,1988-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$67392,1988-08-12,1989-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$68768,1989-08-12,1990-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$72279,1990-08-12,1991-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$76353,1991-08-12,1992-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$78420,1992-08-11,1993-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$80071,1993-08-11,1994-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$82522,1994-08-11,1995-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$85612,1995-08-11,1996-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$89267,1996-08-10,1997-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$90030,1997-08-10,1998-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$91996,1998-08-10,1999-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$96464,1999-08-10,2000-08-09
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$99793,2000-08-09,2001-08-09
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$100059,2001-08-09,9999-01-01
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$66761,1987-08-13,1988-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$67392,1988-08-12,1989-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$68768,1989-08-12,1990-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$72279,1990-08-12,1991-08-12
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$76353,1991-08-12,1992-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$78420,1992-08-11,1993-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$80071,1993-08-11,1994-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$82522,1994-08-11,1995-08-11
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$85612,1995-08-11,1996-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$89267,1996-08-10,1997-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$90030,1997-08-10,1998-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$91996,1998-08-10,1999-08-10
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$96464,1999-08-10,2000-08-09
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$99793,2000-08-09,2001-08-09
+53390,"Aamodt, Dmitry","Senior Engineer",M,1961-05-24,Development,$100059,2001-08-09,9999-01-01
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$47025,1993-07-27,1994-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$49692,1994-07-27,1995-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$51508,1995-07-27,1996-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$54343,1996-07-26,1997-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58156,1997-07-26,1998-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58771,1998-07-26,1999-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$61413,1999-07-26,2000-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$63239,2000-07-25,2001-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$64526,2001-07-25,2002-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$67467,2002-07-25,9999-01-01
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$47025,1993-07-27,1994-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$49692,1994-07-27,1995-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$51508,1995-07-27,1996-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$54343,1996-07-26,1997-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58156,1997-07-26,1998-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58771,1998-07-26,1999-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$61413,1999-07-26,2000-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$63239,2000-07-25,2001-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$64526,2001-07-25,2002-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$67467,2002-07-25,9999-01-01
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$47025,1993-07-27,1994-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$49692,1994-07-27,1995-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$51508,1995-07-27,1996-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$54343,1996-07-26,1997-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58156,1997-07-26,1998-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58771,1998-07-26,1999-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$61413,1999-07-26,2000-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$63239,2000-07-25,2001-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$64526,2001-07-25,2002-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$67467,2002-07-25,9999-01-01
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$47025,1993-07-27,1994-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$49692,1994-07-27,1995-07-27
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$51508,1995-07-27,1996-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$54343,1996-07-26,1997-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58156,1997-07-26,1998-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$58771,1998-07-26,1999-07-26
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$61413,1999-07-26,2000-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$63239,2000-07-25,2001-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$64526,2001-07-25,2002-07-25
+103736,"Aamodt, Garnet","Senior Engineer",F,1964-04-27,"Quality Management",$67467,2002-07-25,9999-01-01
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$58845,1987-03-17,1988-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$60490,1988-03-16,1989-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62822,1989-03-16,1990-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62512,1990-03-16,1991-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$64243,1991-03-16,1992-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$68325,1992-03-15,1993-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$72264,1993-03-15,1993-05-27
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$58845,1987-03-17,1988-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$60490,1988-03-16,1989-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62822,1989-03-16,1990-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62512,1990-03-16,1991-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$64243,1991-03-16,1992-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$68325,1992-03-15,1993-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$72264,1993-03-15,1993-05-27
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$58845,1987-03-17,1988-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$60490,1988-03-16,1989-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62822,1989-03-16,1990-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62512,1990-03-16,1991-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$64243,1991-03-16,1992-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$68325,1992-03-15,1993-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$72264,1993-03-15,1993-05-27
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$58845,1987-03-17,1988-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$60490,1988-03-16,1989-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62822,1989-03-16,1990-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$62512,1990-03-16,1991-03-16
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$64243,1991-03-16,1992-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$68325,1992-03-15,1993-03-15
+90035,"Aamodt, Georgi",Engineer,M,1961-10-14,Production,$72264,1993-03-15,1993-05-27
+64157,"Aamodt, Geraldo","Senior Staff",M,1964-01-29,"Human Resources",$41196,1987-08-11,1988-08-10
+64157,"Aamodt, Geraldo","Senior Staff",M,1964-01-29,"Human Resources",$41420,1988-08-10,1988-10-10
+64157,"Aamodt, Geraldo","Senior Staff",M,1964-01-29,"Human Resources",$41196,1987-08-11,1988-08-10
+64157,"Aamodt, Geraldo","Senior Staff",M,1964-01-29,"Human Resources",$41420,1988-08-10,1988-10-10
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$68245,1991-08-10,1992-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$69845,1992-08-09,1993-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$71715,1993-08-09,1994-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$74191,1994-08-09,1995-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$75354,1995-08-09,1996-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$77411,1996-08-08,1997-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$77396,1997-08-08,1998-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$79296,1998-08-08,1999-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80157,1999-08-08,2000-08-07
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80649,2000-08-07,2001-08-07
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80746,2001-08-07,9999-01-01
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$68245,1991-08-10,1992-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$69845,1992-08-09,1993-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$71715,1993-08-09,1994-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$74191,1994-08-09,1995-08-09
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$75354,1995-08-09,1996-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$77411,1996-08-08,1997-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$77396,1997-08-08,1998-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$79296,1998-08-08,1999-08-08
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80157,1999-08-08,2000-08-07
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80649,2000-08-07,2001-08-07
+84904,"Aamodt, Gladys","Senior Engineer",F,1955-02-05,Development,$80746,2001-08-07,9999-01-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta","Assistant Engineer",M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$57860,1988-05-04,1989-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$61373,1989-05-04,1990-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$64948,1990-05-04,1991-05-04
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$68088,1991-05-04,1992-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$71159,1992-05-03,1993-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$72312,1993-05-03,1994-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$74411,1994-05-03,1995-05-03
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$77927,1995-05-03,1996-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$80465,1996-05-02,1997-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$81829,1997-05-02,1998-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$82578,1998-05-02,1999-05-02
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$86785,1999-05-02,2000-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$87630,2000-05-01,2001-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$90251,2001-05-01,2002-05-01
+107608,"Aamodt, Gretta",Engineer,M,1960-09-23,Production,$91957,2002-05-01,9999-01-01
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$58123,1992-04-22,1993-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$62068,1993-04-22,1994-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$64714,1994-04-22,1995-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$66418,1995-04-22,1996-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$69463,1996-04-21,1997-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$69628,1997-04-21,1998-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$72375,1998-04-21,1999-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$72382,1999-04-21,2000-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$73823,2000-04-20,2001-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$76258,2001-04-20,2002-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$78028,2002-04-20,9999-01-01
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$58123,1992-04-22,1993-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$62068,1993-04-22,1994-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$64714,1994-04-22,1995-04-22
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$66418,1995-04-22,1996-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$69463,1996-04-21,1997-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$69628,1997-04-21,1998-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$72375,1998-04-21,1999-04-21
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$72382,1999-04-21,2000-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$73823,2000-04-20,2001-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$76258,2001-04-20,2002-04-20
+100916,"Aamodt, Heejo",Engineer,M,1965-01-18,Development,$78028,2002-04-20,9999-01-01
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$58123,1992-04-22,1993-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$62068,1993-04-22,1994-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$64714,1994-04-22,1995-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$66418,1995-04-22,1996-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$69463,1996-04-21,1997-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$69628,1997-04-21,1998-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$72375,1998-04-21,1999-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$72382,1999-04-21,2000-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$73823,2000-04-20,2001-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$76258,2001-04-20,2002-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$78028,2002-04-20,9999-01-01
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$58123,1992-04-22,1993-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$62068,1993-04-22,1994-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$64714,1994-04-22,1995-04-22
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$66418,1995-04-22,1996-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$69463,1996-04-21,1997-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$69628,1997-04-21,1998-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$72375,1998-04-21,1999-04-21
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$72382,1999-04-21,2000-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$73823,2000-04-20,2001-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$76258,2001-04-20,2002-04-20
+100916,"Aamodt, Heejo","Senior Engineer",M,1965-01-18,Development,$78028,2002-04-20,9999-01-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju",Engineer,M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40531,1991-03-03,1992-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$40499,1992-03-02,1993-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$44951,1993-03-02,1994-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$48707,1994-03-02,1995-03-02
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$52391,1995-03-02,1996-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53257,1996-03-01,1997-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$53825,1997-03-01,1998-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58306,1998-03-01,1999-03-01
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$58487,1999-03-01,2000-02-29
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$59594,2000-02-29,2001-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$63030,2001-02-28,2002-02-28
+109542,"Aamodt, Heeju","Senior Engineer",M,1959-09-29,Production,$66683,2002-02-28,9999-01-01
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$40000,1985-07-26,1986-07-26
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$40198,1986-07-26,1987-07-26
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$42296,1987-07-26,1988-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$42517,1988-07-25,1989-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$46258,1989-07-25,1990-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$50411,1990-07-25,1991-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$53320,1991-07-25,1992-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$54199,1992-07-24,1993-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$57478,1993-07-24,1994-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$61787,1994-07-24,1995-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$63988,1995-07-24,1996-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$65320,1996-07-23,1997-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$68336,1997-07-23,1998-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$68479,1998-07-23,1999-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$69513,1999-07-23,2000-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$70201,2000-07-22,2001-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$72527,2001-07-22,2002-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$75423,2002-07-22,9999-01-01
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$40000,1985-07-26,1986-07-26
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$40198,1986-07-26,1987-07-26
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$42296,1987-07-26,1988-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$42517,1988-07-25,1989-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$46258,1989-07-25,1990-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$50411,1990-07-25,1991-07-25
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$53320,1991-07-25,1992-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$54199,1992-07-24,1993-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$57478,1993-07-24,1994-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$61787,1994-07-24,1995-07-24
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$63988,1995-07-24,1996-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$65320,1996-07-23,1997-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$68336,1997-07-23,1998-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$68479,1998-07-23,1999-07-23
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$69513,1999-07-23,2000-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$70201,2000-07-22,2001-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$72527,2001-07-22,2002-07-22
+49007,"Aamodt, Hiroyasu","Senior Staff",M,1954-01-14,Research,$75423,2002-07-22,9999-01-01
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$40000,1985-07-26,1986-07-26
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$40198,1986-07-26,1987-07-26
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$42296,1987-07-26,1988-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$42517,1988-07-25,1989-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$46258,1989-07-25,1990-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$50411,1990-07-25,1991-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$53320,1991-07-25,1992-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$54199,1992-07-24,1993-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$57478,1993-07-24,1994-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$61787,1994-07-24,1995-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$63988,1995-07-24,1996-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$65320,1996-07-23,1997-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$68336,1997-07-23,1998-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$68479,1998-07-23,1999-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$69513,1999-07-23,2000-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$70201,2000-07-22,2001-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$72527,2001-07-22,2002-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$75423,2002-07-22,9999-01-01
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$40000,1985-07-26,1986-07-26
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$40198,1986-07-26,1987-07-26
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$42296,1987-07-26,1988-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$42517,1988-07-25,1989-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$46258,1989-07-25,1990-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$50411,1990-07-25,1991-07-25
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$53320,1991-07-25,1992-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$54199,1992-07-24,1993-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$57478,1993-07-24,1994-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$61787,1994-07-24,1995-07-24
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$63988,1995-07-24,1996-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$65320,1996-07-23,1997-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$68336,1997-07-23,1998-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$68479,1998-07-23,1999-07-23
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$69513,1999-07-23,2000-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$70201,2000-07-22,2001-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$72527,2001-07-22,2002-07-22
+49007,"Aamodt, Hiroyasu",Staff,M,1954-01-14,Research,$75423,2002-07-22,9999-01-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$40000,1993-11-01,1994-11-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$39962,1994-11-01,1995-11-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$42855,1995-11-01,1996-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$42390,1996-10-31,1997-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$44139,1997-10-31,1998-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$45116,1998-10-31,1999-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$47157,1999-10-31,2000-10-30
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$49392,2000-10-30,2001-10-30
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$50364,2001-10-30,9999-01-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$40000,1993-11-01,1994-11-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$39962,1994-11-01,1995-11-01
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$42855,1995-11-01,1996-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$42390,1996-10-31,1997-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$44139,1997-10-31,1998-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$45116,1998-10-31,1999-10-31
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$47157,1999-10-31,2000-10-30
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$49392,2000-10-30,2001-10-30
+49426,"Aamodt, Huican","Senior Engineer",M,1963-08-13,Development,$50364,2001-10-30,9999-01-01
